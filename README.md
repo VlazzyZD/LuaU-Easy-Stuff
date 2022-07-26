@@ -4,3 +4,5 @@ Hello! Thank you for checking out my repository, here I will present my LUA proj
 
 https://extallium.xyz <- a cool website
 https://discord.gg/G3WRRYxQSW <- my cool server
+https://extallium.cc
+https://vlaz.rest
