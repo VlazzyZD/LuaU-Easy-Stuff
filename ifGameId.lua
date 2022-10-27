@@ -10,3 +10,4 @@ elseif { game.PlaceId == 000000000} then
   -- the event (it can be a function, event, or potentially another script in lua.)
      game.Players.LocalPlayer.Character.Humanoid.JumpPower = 100
 end  
+-- ima do harder shit
